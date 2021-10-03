@@ -1,2 +1,3 @@
 ini adalah repositori saya yang sudah lama tidak menggunakan git
-dan pada kesempatan kali ini saya belajar bahasa pemrograman python karena saat ini bahasa ini sangat populer dikalangan programer
+dan pada kesempatan kali ini saya belajar bahasa pemrograman python karena saat ini bahasa ini sangat populer dikalangan programer menurut saya
+tidak hanya itu python juga sangat mudah dipelajri (sejauh ini saya belajar) bahasanya yang simpel sangat cocok dipelajari untuk orang yang hanya sekedar iseng ingin tau tentang bahasa pemrograman.
